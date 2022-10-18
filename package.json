@@ -1,0 +1,24 @@
+{
+  "name": "cfmcmod-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Reiga",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "@typescript-eslint/parser": "^5.38.1",
+    "esbuild": "^0.15.9",
+    "eslint": "^8.24.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "fastify": "^4.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
